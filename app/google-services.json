@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "865314071024",
+    "firebase_url": "https://cloudmessageuteq.firebaseio.com",
+    "project_id": "cloudmessageuteq",
+    "storage_bucket": "cloudmessageuteq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865314071024:android:5e275cbb1453e0a5",
+        "android_client_info": {
+          "package_name": "com.uteq.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865314071024-l3911l1nr3d622puu0vf7j6c9gvtgt5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhTt_sUJfKgsrtajUmnIrBCmYOS5vuX0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
